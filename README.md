@@ -6,3 +6,4 @@ Comandos que aprendi:
 * ADD
 * STATUS
 * COMMIT -m "mensagem de valor do meu trabalho"
+* PUSH
