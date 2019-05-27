@@ -7,3 +7,4 @@ Comandos que aprendi:
 * STATUS
 * COMMIT -m "mensagem de valor do meu trabalho"
 * PUSH
+* PULL
