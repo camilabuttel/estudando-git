@@ -8,3 +8,6 @@ Comandos que aprendi:
 * COMMIT -m "mensagem de valor do meu trabalho"
 * PUSH
 * PULL
+
+
+AGORA O CONFLITO
